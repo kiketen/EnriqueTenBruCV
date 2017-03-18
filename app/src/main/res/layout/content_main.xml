@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/bottom_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.linhoapps.tenbrucv.mvp.view_presenter.activityMain.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <LinearLayout
+        android:id="@+id/content_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_card_view">
+
+        <include
+            layout="@layout/cardview_education"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_card_view"/>
+
+        <include
+            layout="@layout/cardview_contact"
+            android:layout_marginBottom="@dimen/margin_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <include
+            layout="@layout/cardview_languages"
+            android:layout_marginBottom="@dimen/margin_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <include
+            layout="@layout/cardview_description"
+            android:layout_marginBottom="@dimen/margin_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

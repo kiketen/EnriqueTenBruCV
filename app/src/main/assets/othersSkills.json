@@ -1,0 +1,27 @@
+{
+  "othersSkills": {
+    "resultado": {
+      "codError": "0",
+      "desError": "OK",
+      "skills": [
+        {
+          "globalSkill": "description",
+          "particularSkills": [
+            {
+              "name": "Matlab: Intermediate Level\nPhotoshop: Beginner Level\nPhp My-Admin: Intermediate Level\nAutocad: Beginner Level\nMicrosoft Office: Intermediate Level\nDriver License: B1",
+              "number": "0"
+            },
+            {
+              "name": "Matlab: Nivell Mitjà\nPhotoshop: Nivell Principiant\nPhp My-Admin: Nivell Mitjà\nAutocad: Nivell Principiant\nMicrosoft Office: Nivell Mitjà\nCarnet de Conduïr: B1",
+              "number": "1"
+            },
+            {
+              "name": "Matlab: Nivel Medio\nPhotoshop: Nivel Principiante\nPhp My-Admin: Nivel Medio\nAutocad: Nivel Principiante\nMicrosoft Office: Nivel Medio\nCarnet de Conducir: B1",
+              "number": "2"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

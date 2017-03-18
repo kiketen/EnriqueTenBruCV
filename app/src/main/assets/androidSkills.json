@@ -1,0 +1,79 @@
+{
+  "androidSkills": {
+    "resultado": {
+      "codError": "0",
+      "desError": "OK",
+	  "skills": [{
+	  "globalSkill":"components",
+	  "particularSkills":[{
+        "name": "RecyclerView",
+        "number": "5"},{
+        "name": "Fragments",
+        "number": "5"},{
+        "name": "NavigationBottom",
+        "number": "5"},{
+        "name": "NavigationDrawer",
+        "number": "5"},{
+        "name": "ViewPager",
+        "number": "4"},{
+        "name": "TabLayout",
+        "number": "5"},{
+        "name": "BroadcastReceiver",
+        "number": "4"},{
+        "name": "CardView",
+        "number": "5"},{
+        "name": "CoordinatorLayout",
+        "number": "5"},{
+        "name": "MVP",
+        "number": "5"}
+      ]},{
+	  "globalSkill":"libraries",
+	  "particularSkills":[{
+        "name": "Volley",
+        "number": "5"},{
+        "name": "Retrofit",
+        "number": "2"},{
+        "name": "Picasso",
+        "number": "5"},{
+        "name": "Glide",
+        "number": "2"},{
+        "name": "ButterKnife",
+        "number": "4"},{
+        "name": "Gson",
+        "number": "5"},{
+        "name": "AppCompat",
+        "number": "5"},{
+        "name": "Sugar",
+        "number": "4"}
+          ]},{
+		  "globalSkill":"tools",
+		  "particularSkills":[{
+        "name": "Android Studio",
+        "number": "5"},{
+        "name": "Graddle",
+        "number": "4"},{
+        "name": "SDK",
+        "number": "5"},{
+        "name": "Eclipse",
+        "number": "4"},{
+        "name": "Git",
+        "number": "4"},{
+        "name": "SourceTree",
+        "number": "4"}
+        ]},{"globalSkill":"experience",
+		"particularSkills":[{
+        "name": "1 year (Correos & DESIG) + 2'5 years freelance (Concerts ON)",
+        "number": "0"},{
+        "name": "1 any (Correus & DESIG) + 2'5 anys freelance (Concerts ON)",
+        "number": "1"},{
+        "name": "1 año (Correos & DESIG) + 2'5 años freelance (Concerts ON)",
+        "number": "2"}
+            ]
+		
+		}
+        
+	  ]
+      
+    }
+  }
+}

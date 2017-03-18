@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Ten Bru CV</string>
+
+    <string name="action_settings">Opciones</string>
+    <string name="knowledgements">Conocimientos</string>
+    <string name="information">General</string>
+    <string name="expericence">Experiencia</string>
+    <string name="my_name">Enrique Ten Bru</string>
+    <string name="my_profession">Android Developer</string>
+    <string name="studies">Formación Académica</string>
+    <string name="my_studies">Ingeniero Superior de Telecomunicaciones</string>
+    <string name="my_university">Universitat Politècnica de València</string>
+    <string name="contact">Contacto</string>
+    <string name="languages">Idiomas</string>
+    <string name="description">Descripción personal</string>
+    <string name="phone_number">+34667909320</string>
+    <string name="email_adress">kike10bru@gmail.com</string>
+    <string name="linkedin_adress">https://www.linkedin.com/in/enrique-ten-bru-728b68116</string>
+    <string name="linkedin">Perfil de Linkedin</string>
+    <string name="spanish_level">Castellano: Nativo</string>
+    <string name="catalan_level">Catalán: Nativo</string>
+    <string name="english">Inglés: B1/B2</string>
+    <string name="my_description">Edad: 29 años\nCiudad nacimiento: Canals (Valencia)\nCiudad residencia: Madrid\n\nAficiones: Tecnología, programación limpia, actualidad android, practicar deporte, música clásica (toco el clarinet desde los 10 años), aprender idiomas y la filosofía.\n\nDescripción personal: Desde que finalizé mis estudios de ingeniero de telecomunicaciones, tenía claro que quería moverme por el mundo de la tecnología Android, por eso, empezé a formarme de forma autodidacta en mi tiempo libre, para así lanzar la que sería mi primera app en el Play Store, Concerts ON.\nEsta app la hice con una doble finalidad: dar la posibilidad a los grupos más pequeños a darse a publicitarse y así poder llegar a más gente y, sobretodo, para ir aprendiendo todo lo relacionado con el mundo del desarrollo de aplicaciones móviles.\nEn estos momemntos, me encuentro trabajando en un proyecto Android y tengo muy claro que mi carrera profesional se tiene que ir desarrollando por este ámbito, los proyectos de movilidad (estoy abierto a aprender nuevas tecnologías: React, Xamarin, Swift, AngularJS (ya tengo un poco de experiéncia en esta)).\nMe considero una persona proactiva y sobretodo con muchas ganas de aprender y seguir creciendo como profesional. Por supuesto, veo mi futuro más allá de ser analista programador, como lo soy actualmente, ya que me gustaría encargarme de la organización de los proyectos de movilidad (ya lo he hecho a pequeña escala, en Correos tengo una persona a mi cargo), pero, creo que para poder organizar bien un proyecto es necesario conocer bien la tecnología que se usa en éste, por eso sigo formándome día a día, leyendo semanarios como Android Weekly y siguiendo diferentes páginas de tecnología en facebook o twitter.\nPara terminar, solo comentar que tengo buena capacidad comunicativa, lo cual siempre me ha sido muy útil a la hora de entablar conversación con el cliente.</string>
+    <string name="tel">tel:</string>
+    <string name="androidstr">Android</string>
+    <string name="angularjs">AngularJS</string>
+    <string name="sql">SQL</string>
+    <string name="others">Others</string>
+    <string name="linkedin_url_app">linkedin://profile/enrique-ten-bru-728b68116</string>
+    <string name="linkedin_url">http://www.linkedin.com/profile/view?id=enrique-ten-bru-728b68116</string>
+    <string name="components">Componentes e Intefaz</string>
+    <string name="libraries">Librerías</string>
+    <string name="tools">Herramientas Desarrollo</string>
+    <string name="ok">OK</string>
+    <string name="is_translated_english">The CV is translated english actually</string>
+    <string name="is_translated_catalan">El currículum ja està traduït al català</string>
+    <string name="is_translated_spanish">El currículum ya está traducido al castellano</string>
+    <string name="part_no_developed">Esta parte aún no está desarrollada</string>
+</resources>

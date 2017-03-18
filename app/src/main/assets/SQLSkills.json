@@ -1,0 +1,31 @@
+{
+  "SQLSkills": {
+    "resultado": {
+      "codError": "0",
+      "desError": "OK",
+	  "skills": [{
+	  "globalSkill":"experience",
+		"particularSkills":[{
+        "name": "1 year and 3 months (DESIG & DESIG-HA)",
+        "number": "0"},{
+        "name": "1 any i 3 mesos (DESIG i DESIG-HA)",
+        "number": "1"},{
+        "name": "1 año y 3 meses (DESIG y DESIG-HA)",
+        "number": "2"}]},{
+          "globalSkill":"description",
+          "particularSkills":[{
+            "name": "Technologies: OracleSQL.\nLibraries, tools & others: Views, Packages, Functions, Queries, Oracle Forms, Oracle Reports, SQLDeveloper, Tortoise Subversion, Jira,...",
+            "number": "0"},{
+            "name": "Tecnologies: OracleSQL.\nLlibreries, ferramentes i altres: Vistes, Paquets, Funcions, Consultes, Oracle Forms, Oracle Reports, SQLDeveloper, Tortoise Subversion, Jira,...",
+            "number": "1"},{
+            "name": "Tecnologías: OracleSQL.\nLibrerías, herramientas y otros: Vistas, Paquetes, Funciones, Consultas, Oracle Forms, Oracle Reports, SQLDeveloper, Tortoise Subversion, Jira,...",
+            "number": "2"}
+            ]
+		
+		}
+        
+	  ]
+      
+    }
+  }
+}

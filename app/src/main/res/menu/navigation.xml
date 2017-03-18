@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/general"
+        android:icon="@drawable/information"
+        android:title="@string/information" />
+
+    <item
+        android:id="@+id/knowledgements"
+        android:icon="@drawable/school"
+        android:title="@string/knowledgements" />
+
+    <item
+        android:id="@+id/expericence"
+        android:icon="@drawable/tie"
+        android:title="@string/expericence" />
+</menu>

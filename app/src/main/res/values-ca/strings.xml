@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Ten Bru CV</string>
+
+    <string name="action_settings">Opcions</string>
+    <string name="knowledgements">Coneixements</string>
+    <string name="information">General</string>
+    <string name="expericence">Experiència</string>
+    <string name="my_name">Enrique Ten Bru</string>
+    <string name="my_profession">Android Developer</string>
+    <string name="studies">Formació Acadèmica</string>
+    <string name="my_studies">Enginyer Superior de Telecomunicacions</string>
+    <string name="my_university">Universitat Politècnica de València</string>
+    <string name="contact">Contacte</string>
+    <string name="languages">Idiomes</string>
+    <string name="description">Descripció personal</string>
+    <string name="phone_number">+34667909320</string>
+    <string name="email_adress">kike10bru@gmail.com</string>
+    <string name="linkedin_adress">https://www.linkedin.com/in/enrique-ten-bru-728b68116</string>
+    <string name="linkedin">Perfil de Linkedin</string>
+    <string name="spanish_level">Castellà: Natiu</string>
+    <string name="catalan_level">Català: Natiu</string>
+    <string name="english">Anglés: B1/B2</string>
+    <string name="androidstr">Android</string>
+    <string name="angularjs">AngularJS</string>
+    <string name="sql">SQL</string>
+    <string name="others">Others</string>
+    <string name="my_description">Edat: 29 anys\nCiutat naixement: Canals (València)\nCiutat residència: Madrid\n\nAficions: Tecnologia, programació neta, actualitat android, practicar esport, música clàssica (toque el clarinet des dels 10 anys), aprendre idiomes i la filosofia.\n\nDescripció personal: Des de que vaig finalitzar els meus estudis d\'enginyer de telecomunicacions, tenia clar que volia moure\'m pel món de la tecnologia Android, pel qual motiu, vaig començar a formar-me autodidàcticament en el meu temps lliure, per tal de crear el que sería la meua primera app al Play Store, Concerts ON.\nAquesta app la vaig crear amb una doble finalitat: donar la possibilitat als grups més menuts per a anunciar-se i així que poderen arribar a més gent i, sobretot, per a anar aprenent tot el necessari del món de les aplicacions mòbils.\nA hores d\'ara, em trobe treballant en un projecte d\'Android i tinc ben clar que la meua carrera professional s\'ha d\'anar desenvolupant per aquests àmbits, els projectes de mobilitat (estic obert a aprendre noves tecnologies: React, Xamarin, Swift, AngularJS (ja tinc una mica d\'experiència en aquesta)).\nEm considere una persona proactiva i sobretot amb moltes ganes d\'aprendre i seguir creixquent com a professional. Per supost, veig el meu futur més enllà de ser analista programador, com ho sóc actualment, ja que m\'agrada organitzar la feina dels projectes (ja ho he fet en diversos projectes), però, crec que per a poder organitzar bé un projecte és necessari coneixer bé la tecnologia que s\'utilitza en aquest, pel qual motiu continue formant-me dia a dia, llegint semanaris com Android Weekly i seguint diverses pàgines de tecnologia al facebook o twitter.\nPer finalitzar, sols comentar que tinc bona capacitat comunicativa, el qual sempre m\'ha sigut molt útil a l\'hora d\'expresar-me directament amb el client.</string>
+    <string name="tel">tel:</string>
+    <string name="linkedin_url_app">linkedin://profile/enrique-ten-bru-728b68116</string>
+    <string name="linkedin_url">http://www.linkedin.com/profile/view?id=enrique-ten-bru-728b68116</string>
+    <string name="components">Components i Intefície</string>
+    <string name="libraries">Llibreries</string>
+    <string name="tools">Ferramentes Desenvolupament</string>
+    <string name="ok">OK</string>
+    <string name="is_translated_english">The CV is translated english actually</string>
+    <string name="is_translated_catalan">El currículum ja està traduït al català</string>
+    <string name="is_translated_spanish">El currículum ya está traducido al castellano</string>
+    <string name="part_no_developed">Esta part encara no està desenvolupada</string>
+</resources>

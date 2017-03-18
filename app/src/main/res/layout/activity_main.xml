@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.linhoapps.tenbrucv.mvp.view_presenter.activityMain.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fragment_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" />
+
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/grey900"
+        app:itemIconTint="@drawable/selector_item_background"
+        app:itemTextColor="@drawable/selector_item_background"
+        app:menu="@menu/navigation" />
+
+</android.support.design.widget.CoordinatorLayout>

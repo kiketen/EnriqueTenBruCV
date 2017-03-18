@@ -1,0 +1,31 @@
+{
+  "angularJSSkills": {
+    "resultado": {
+      "codError": "0",
+      "desError": "OK",
+	  "skills": [{
+	  "globalSkill":"experience",
+		"particularSkills":[{
+        "name": "4 months (DESIG)",
+        "number": "0"},{
+        "name": "4 mesos (DESIG)",
+        "number": "1"},{
+        "name": "4 meses (DESIG)",
+        "number": "2"}]},{
+          "globalSkill":"description",
+          "particularSkills":[{
+            "name": "Technologies: AngularJS, HTML5 & Cordova.\nLibraries, tools & others: Phonegap, JSON, Soap, bootstrap, CSS, Tortoise Subversion, Jira,...",
+            "number": "0"},{
+            "name": "Tecnologies: AngularJS, HTML5 & Cordova.\nLlibreries, ferramentes i altres: Phonegap, JSON, Soap, bootstrap, CSS, Tortoise Subversion, Jira,...",
+            "number": "1"},{
+            "name": "Tecnologías: AngularJS, HTML5 & Cordova.\nLibrerías, herramientas y otros: Phonegap, JSON, Soap, bootstrap, CSS, Tortoise Subversion, Jira,...",
+            "number": "2"}
+            ]
+		
+		}
+        
+	  ]
+      
+    }
+  }
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.linhoapps.tenbrucv.mvp.view_presenter.activityMain.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:layout_collapseMode="pin"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+            <ImageView
+                android:id="@+id/toolbar_icon"
+                android:layout_width="@dimen/icon_image_size"
+                android:layout_height="@dimen/icon_image_size"
+                android:transitionName="iconImage"
+                android:background="@android:color/transparent"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/nameToolbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/text_toolbar_name_margin"
+                android:text="@string/my_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_medium" />
+
+        </android.support.v7.widget.Toolbar>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toolbar"
+            android:background="?attr/colorPrimary"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:tabMode="scrollable" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ImageView
+        android:id="@+id/skill_image"
+        android:layout_width="@dimen/skill_image_size"
+        android:layout_height="@dimen/skill_image_size"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="@dimen/toolbar_height"
+        android:layout_gravity="center"
+        android:transitionName="iconImage" />
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/bottom_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <FrameLayout
+            android:id="@+id/fragment_skill_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tab_layout"
+            android:background="@color/grey50" />
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>
